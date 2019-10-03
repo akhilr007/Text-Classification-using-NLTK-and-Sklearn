@@ -2,7 +2,7 @@
 In this project, we basically detect that the given text message is spam or not using NLP(Natural Language Processing),
 
 We have achieved an accuracy score of 98.70 %.
-We have tried out different types of sklearn classifiers with given accuracies:-
+We have tried out different types of sklearn classifiers with given accuracies
 KK Nearest Neighbors -->  94.68772433596554
 Decision Tree        -->  97.5592246949031
 Random Forest        -->  98.20531227566404
